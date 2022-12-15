@@ -24,7 +24,7 @@ function create_text_box(text) {
         top: 20%;
         left: 50%;
         transform: translate(-50%, -20%);
-        z-index:100000;
+        z-index:10000000000000;
         display: flex;
         flex-direction: column;
     `
